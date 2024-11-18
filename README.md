@@ -16,5 +16,5 @@ I am expanding my expertise in machine learning, data science, and scalable syst
 
 ### 📫 Connect with Me
 - [LinkedIn](linkedin.com/in/fahim-francis-1183b4294)
-- [Email]: (faheemfrancis99@gmail.com)
+- [Email](faheemfrancis99@gmail.com)
 

@@ -15,6 +15,6 @@ I’m currently working on a FIFA World Cup match outcome prediction project, ap
 I am expanding my expertise in machine learning, data science, and scalable systems.
 
 ### 📫 Connect with Me
-- [LinkedIn](linkedin.com/in/fahim-francis-1183b4294)
-- [Email](faheemfrancis99@gmail.com)
+- [linkedin.com/in/fahim-francis-1183b4294]
+- [faheemfrancis99@gmail.com]
 
